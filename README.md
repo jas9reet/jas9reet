@@ -32,7 +32,7 @@
 ### Languages and Tools...
 
 <p align="center">
- <img height="100" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="Twitter" style="vertical-align:top; margin:4px">  <img height="100" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img height="100" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" alt="Twitter" style="vertical-align:top; margin:4px">  <img height="100" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" alt="Twitter" style="vertical-align:top; margin:4px"> 
+ <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/html5.svg" alt="Twitter" style="vertical-align:top; margin:4px">  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/javascript.svg" alt="Twitter" style="vertical-align:top; margin:4px"> <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/php.svg" alt="Twitter" style="vertical-align:top; margin:4px">  <img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/amazonaws.svg" alt="Twitter" style="vertical-align:top; margin:4px"> 
  </p>
  <p align="center">
 <code><a href="https://www.linux.org/" target="_blank"><img height="50" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linux.svg"></a></code>
